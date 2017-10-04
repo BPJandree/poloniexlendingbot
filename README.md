@@ -1,4 +1,4 @@
-This is a personal verion of Crypto Coin Lending Bot. Feel free to use it or bring functionality back to the original repository.
+This is a personal verion of Crypto Coin Lending Bot. Feel free to use it or bring functionality back to the [original repository](https://github.com/BitBotFactory/poloniexlendingbot).
 
 # Crypto Coin Lending Bot (aka Poloniex Lending Bot) <img src="https://nevet.me/public/icon.png" width="50">
 
