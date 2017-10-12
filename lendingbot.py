@@ -150,7 +150,7 @@ def lend():
         os._exit(0)  # Ad-hoc solution in place of 'exit(0)' TODO: Find out why non-daemon thread(s) are hanging on exit
 
 # Run for 1 day max, manage a cron job
-end = time.time() + 86400
+end = time.time() + 23.5*60*60
 while time.time() < end:
     try:
         lend()
