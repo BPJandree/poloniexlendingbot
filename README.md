@@ -1,5 +1,8 @@
 This is a personal verion of Crypto Coin Lending Bot. Feel free to use it or bring functionality back to the [original repository](https://github.com/BitBotFactory/poloniexlendingbot).
 
+## crontab instructions
+Recommended to schedule a shutdown -r now 10 miutes prior to scheduling lending.py, This ensures only one version of the script wil run. Launching a new lending.py while an older is still running may cause nonce problems, requiring an api key reset.
+
 # Crypto Coin Lending Bot (aka Poloniex Lending Bot) <img src="https://nevet.me/public/icon.png" width="50">
 
 The Crypto Coin Lending Bot is written in Python and features automatic lending on exchanges Poloniex and Bitfinex.
